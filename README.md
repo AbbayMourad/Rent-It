@@ -1,0 +1,1 @@
+# Rent-It est une application desktop écrite en java et javafx et a pour but la gestion d'une agence de location, pour en savoir plus vous pouvez lire cahier de charge ( Descriptif du mini-projet Java 2019-2020.pdf ).
