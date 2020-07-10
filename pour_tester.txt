@@ -1,7 +1,7 @@
-Bonjour, afin d'exéctuer l'application chez vous, il est néessaire de:
-1- créer une base de données "agence", puis il faut exécuter fichier "agence.sql" qui sert à créer les tables de la BD est les remplir.
-2-exécuter fichier "mySQL_users.sql" qui sert à créer les comptes MYSQL qui seront utiliser par notre application, à noter que 
-ces comptes (2 en effet) auront l'accés seulement à la BD "agence" créé précédement.
+Bonjour, afin d'exÃ©ctuer l'application chez vous, il est nÃ©essaire de:
+1- crÃ©er une base de donnÃ©es "agence", puis il faut exÃ©cuter fichier "agence.sql" qui sert Ã  crÃ©er les tables de la BD est les remplir.
+2-exÃ©cuter fichier "mySQL_users.sql" qui sert Ã  crÃ©er les comptes MYSQL qui seront utiliser par notre application, Ã  noter que 
+ces comptes (2 en effet) auront l'accÃ©s seulement Ã  la BD "agence" crÃ©Ã© prÃ©cÃ©dement.
 maintenant tous est pret pour tester l'application.
 
 voici les comptes des utilisateurs actuels de l'application:
