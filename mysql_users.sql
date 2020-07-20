@@ -9,7 +9,7 @@ GRANT SELECT, INSERT, UPDATE, DELETE ON `agence`.`facture` TO 'user'@'%'
 GRANT SELECT ON `agence`.`utilisateur` TO 'user'@'%';
 GRANT SELECT ON `agence`.`administrateur` TO 'user'@'%';
 
-CREATE USER 'admin_agence'@'%' indentified by 'admin'; /* compte MYSQL utilise par admin */
+CREATE USER 'admin_agence'@'%' indentified by 'admin'; /* compte MYSQL utilise par l'admin de l'application */
 GRANT SELECT, INSERT, UPDATE, DELETE ON `agence`.`client` TO 'admin_agence'@'%';
 GRANT SELECT, INSERT, UPDATE, DELETE ON `agence`.`facture` TO 'admin_agence'@'%';
 GRANT SELECT, INSERT, UPDATE, DELETE ON `agence`.`parking` TO 'admin_agence'@'%';
